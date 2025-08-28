@@ -8,7 +8,7 @@ window.colors = ["#b1fca4", "#fac6ff", "#a8c9ff", "#ff6347", "#9400d3", "#19dfda
 
 window.courses = [
     [
-    {name: "Hist. das Ideias e Práticas Pedagógicas", credits: 4, code: "EDU1764", semester: 1},
+    {name: "Hist. das Ideias e Práticas Pedagógicas", credits: 4, code: "EDU1764", semester: 1, requirements: []},
     {name: "Criança e Cultura", credits: 4, code: "EDU1774", semester: 1, requirements: []},
     {name: "Mídia, Tecnologias e Educação", credits: 4, code: "EDU1780", semester: 1, requirements: []},
     {name: "Análise e Produção do Texto Acadêmico", credits: 4, code: "LET1910", semester: 1, requirements: []},
