@@ -17,8 +17,8 @@ html, body {
     font-family: Rounded;
     margin-bottom: 3.1vh;
     display: block;
-    width: 11vw; /*old 9*/
-    height: 12vh; /*old 9.2*/
+    width: 9vw; /*old 9*/
+    height: 10vh; /*old 9.2*/
 }
 
 /* Removes blue outline when clicked: */
