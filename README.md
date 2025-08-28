@@ -1,6 +1,6 @@
 # Courses Flowchart
 
-Use it live at: https://gremio-eci.github.io/grade
+Use it live at: https://matheuslomba.github.io/Fluxograma-Pedagogia-PUC/
 
 Interactive flowchart to keep track of your progress throughout the courses you take in university.
 
