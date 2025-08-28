@@ -55,6 +55,6 @@ window.courses = [
     {name: "Língua Brasileira de Sinais I", credits: 2, code: "LET1801", semester: 8, requirements: []},
     {name: "Optativas de Educação", credits: 8, code: "EDU0800", semester: 8, requirements: []},
     {name: "Eletiva dentro/fora do Depto", credits: 8, code: "ELL0900", semester: 8, requirements: []},
-    {name: "Optativas de Extensão", credits: 4, code: "EXT0100", semester: 8, requirements: []},
+    {name: "Optativas de Extensão", credits: 4, code: "EXT0100", semester: 8, requirements: [], workload: 60, step: 1},
     ]
 ]
